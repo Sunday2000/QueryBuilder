@@ -50,4 +50,4 @@ $query will contain "SELECT * FROM users WHERE id > :id ORDER BY id DESC LIMIT 1
 
 *************************************************************************************************
 
-NB: You need to construct QueryBuilder Object if you want use fetch(), fetchAll() and setParam() methods
+NB: You need to construct QueryBuilder Object with PDO instance if you want use fetch(), fetchAll() and setParam() methods
