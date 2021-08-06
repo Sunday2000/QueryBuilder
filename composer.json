@@ -1,0 +1,13 @@
+{
+    "name": "sunday/query-builder",
+    "description": "Helps to dynamically build SQL queries",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sunday Kodonon",
+            "email": "kodonoumahuwanu@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
